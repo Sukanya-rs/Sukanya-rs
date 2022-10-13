@@ -3,10 +3,19 @@
 - 🌱 I’m currently learning to code with python and about Deep Learning and write blogs to share on what I have learnt. 
 - 💞️ I’m looking to collaborate on 
 - 📫 You can find me here  👉🏽 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/sukanya_rs?style=social&label=Follow%20%40sukanya_rs)](https://twitter.com/sukanya_rs) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukanyars/) [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sukanya.me) 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-GitHub Streak Stats](https://github.com/sukanya_rs/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 
-<!---
-Sukanya-rs/Sukanya-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<p>
+<table style="width:10px; border: 1px solid black"; align="right">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/sukanya_rs/count.svg" alt="" /></td>
+  </tr>
+</table></p>
