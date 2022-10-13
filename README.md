@@ -1,4 +1,15 @@
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 " alt="alt text" width="20" height="20"> Hi, I’m @Sukanya-rs 😊, Welcome to my github page! 
+
+ <summary></summary>
+ <details>
+ <summary>Work Profile</summary>
+        
+        I am Sukanya. I have worked in multiple roles. I initially started my career Industrial service line engineer 
+        at Hewlett Packard, and later pursued the position of Senior Network Engineer. moved to learn Data & Mobile 
+        backbone networks and After a career break, I am trying to understand the impact of AI in terms of privacy & 
+        security, while working to generate value through my work.  
+
+  
 - 👀 I’m interested in exploring the "Impact of AI" and generate value through my work. 
 - 🌱 I’m currently learning to code with python and about Deep Learning and write blogs to share on what I have learnt. 
 - 💞️ I’m looking to collaborate on 
@@ -8,7 +19,6 @@
 <br></br>
 <br></br>
 <br></br>
-
 
 
 
