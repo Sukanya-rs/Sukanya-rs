@@ -2,9 +2,9 @@
 
         
         I am Sukanya. I have worked in multiple roles. I initially started my career Industrial service line engineer 
-        at Hewlett Packard, and later pursued the position of Senior Network Engineer working for major telecoms as my 
-        clients on Data & Mobile backbone networks and After a career break, I am trying to understand the impact of AI 
-        in terms of privacy & security, while working to generate value through my work.  
+        at Hewlett Packard, and later worked as a Senior Network Engineer working for major telecoms(clients on Data & Mobile backbone networks)
+        and After a career break, I am trying to understand the impact of AI in terms of privacy & security, while working to generate value through my 
+        work.  
 
   
 - 👀 I’m interested in exploring the "Impact of AI" and generate value through my work. 
